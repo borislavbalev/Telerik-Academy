@@ -1,7 +1,13 @@
-using.System;
-class Hohoh;{
-static void Main(string[args]){
-bool sopol=true;
-Console.WriteLine(!sopol);
-}
+namespace FractionSums
+{
+    using System;
+
+    class Sopol
+    {
+        static void Main()
+        {
+            bool sopol = true;
+            Console.WriteLine(!sopol);
+        }
+    }
 }
