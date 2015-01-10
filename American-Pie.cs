@@ -6,7 +6,7 @@ namespace FractionSums
     {
         static void Main()
         {
-            int firstNominator = long.Parse(Console.ReadLine());
+            long firstNominator = long.Parse(Console.ReadLine());
             long firstDenominator = long.Parse(Console.ReadLine());
 
             long secondNominator = long.Parse(Console.ReadLine());
